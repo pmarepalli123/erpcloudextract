@@ -96,7 +96,7 @@ Oracle Data Integrator is a comprehensive data integration platform that covers 
 - ODI supports both RESTful and SOAP web services; thus, ODI users can extract data from any SaaS applications that provide RESTful or SOAP web services.
 - Alternatively, ODI users may use a JDBC driver to establish a connection, between ODI and the SaaS application, and extract data from the SaaS application.  The JDBC driver is a wrapper that uses the underlying web service APIs to facilitate the connection and consumption of data between the client (ODI) and the web service (SaaS application).
 
-#### **OAC Dataflow:**
+#### **OAC Data Replication:**
 
 [SaaS Data Replication in Oracle Analytics Cloud](https://www.ateam-oracle.com/saas-data-replication-in-oracle-analytics-cloud-oac-and-oaac)
 [ERP Cloud New Features](https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/r13/wn/common/releases/19C/19C-common-wn.htm#F9089)
